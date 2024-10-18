@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Files
+comment0.text=\r\n\ Saves\ and\ loads\ data\ to\ and\ from\ files\r\n\r\n\ @author\ Sadie\ Coffield\r\n\ @version\ 1\r\n
+comment1.params=userID\ name\ phoneNumber
+comment1.target=void\ saveUserProfile(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Method\ to\ save\ the\ details\ of\ the\ user\ profile\ to\ a\ file\r\n
+comment2.params=
+comment2.target=void\ loadUserProfile()
+comment2.text=\r\n\ Method\ to\ load\ the\ details\ of\ the\ user\ profile\ from\ file\r\n
+comment3.params=
+comment3.target=void\ saveContacts()
+comment3.text=\r\n\ Method\ to\ save\ the\ list\ of\ contacts\ to\ file\r\n
+numComments=4

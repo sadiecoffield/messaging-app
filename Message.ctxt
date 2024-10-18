@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Message
+comment1.params=contents\ timestamp\ recipientUserID
+comment1.target=Message(java.lang.String,\ java.util.Date,\ java.lang.String)
+comment10.params=contents\ timestamp\ recipientUserID
+comment10.target=void\ sendMessage(java.lang.String,\ java.util.Date,\ java.lang.String)
+comment11.params=
+comment11.target=void\ readMessage()
+comment12.params=
+comment12.target=java.util.Date\ getDateTimeSent()
+comment2.params=
+comment2.target=java.lang.String\ getContents()
+comment3.params=contents
+comment3.target=void\ setContents(java.lang.String)
+comment4.params=
+comment4.target=boolean\ isRead()
+comment5.params=read
+comment5.target=void\ setRead(boolean)
+comment6.params=
+comment6.target=java.util.Date\ getTimestamp()
+comment7.params=timestamp
+comment7.target=void\ setTimestamp(java.util.Date)
+comment8.params=
+comment8.target=java.lang.String\ getRecipientUserID()
+comment9.params=recipientUserID
+comment9.target=void\ setRecipientUserID(java.lang.String)
+numComments=13
